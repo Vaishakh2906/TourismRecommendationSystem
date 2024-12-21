@@ -6,7 +6,7 @@
 
 Clone the repository:
 
-git clone  Navigate to the project directory:
+git clone https://github.com/Vaishakh2906/TourismRecommendationSystem.git  Navigate to the project directory:
 
 cd recommendation-system Install the required dependencies:
 
