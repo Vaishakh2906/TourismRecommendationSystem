@@ -6,7 +6,7 @@
 
 Clone the repository:
 
-git clone https://github.com/VenkyMan0810/recommendation-system.git Navigate to the project directory:
+git clone  Navigate to the project directory:
 
 cd recommendation-system Install the required dependencies:
 
